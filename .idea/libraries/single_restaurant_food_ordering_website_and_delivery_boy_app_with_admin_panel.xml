@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="single-restaurant-food-ordering-website-and-delivery-boy-app-with-admin-panel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/single_restaurant_driver_android.zip!/" />
+      <root url="jar://$PROJECT_DIR$/single-restaurant-website-admin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/admin-only.zip!/" />
+      <root url="jar://$PROJECT_DIR$/single_restaurant_user_android.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
